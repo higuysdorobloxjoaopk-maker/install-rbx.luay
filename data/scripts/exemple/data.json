@@ -1,1 +1,7 @@
-
+{
+ "name": "AutoFarm",
+ "description": "Farm automático para ganhar dinheiro",
+ "game": "https://www.roblox.com/games/8172626",
+ "author": "Luay",
+ "version": "1.0"
+}
